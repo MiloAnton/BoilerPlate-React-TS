@@ -1,7 +1,6 @@
-import { FC } from 'react';
 import style from './Footer.module.scss';
 
-const Footer: FC = () => {
+const Footer = () => {
   return <section className={style['footer-main-container']}>Footer</section>;
 };
 
