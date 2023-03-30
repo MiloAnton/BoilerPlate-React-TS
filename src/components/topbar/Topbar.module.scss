@@ -1,0 +1,19 @@
+.topbar-main-container {
+  padding: 1rem;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid black;
+}
+
+.home-icon {
+  max-width: 30px;
+  max-height: 30px;
+}
+
+.middle-element {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
